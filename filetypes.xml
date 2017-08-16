@@ -6,7 +6,9 @@
       <mapping pattern="阿萨德法师法师" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
+      <removed_mapping ext="dll" type="UNKNOWN" />
       <mapping pattern="UDTSettingFile" type="XML" />
+      <mapping ext="dll" type="YouTrack" />
     </extensionMap>
   </component>
 </application>
