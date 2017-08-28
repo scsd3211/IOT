@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/scsd3211/AILOGPDT.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/DinnerHowe/simple_voice.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\chenzhuo" />
+    <option name="cloneParentDir" value="C:\Users\chenzhuo\OneDrive\pythone-cz" />
   </component>
 </application>
